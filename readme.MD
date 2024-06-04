@@ -47,7 +47,7 @@ the backend is build using PHP and Mysql
 
 1. Clone the Repository
 
-    git clone https://github.com/your-username/movielibapplication.git
+    git clone https://github.com/rSaiHarsha/Movie-lib-web-application.git
     cd movielibapplication
 
 2. Set Up the Database

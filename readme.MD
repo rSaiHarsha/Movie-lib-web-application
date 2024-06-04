@@ -69,7 +69,7 @@ the backend is build using PHP and Mysql
         Create Lists: Add movies to lists, create new lists, and manage existing lists.
         Public and Private Lists: Toggle between making lists public or private.
 ## Steps to Run
-1. Clone the repository: git clone https://github.com/your-username/movielibapplication.git
+1. Clone the repository: git clone https://github.com/rSaiHarsha/Movie-lib-web-application.git
 2. Set up the database: Import the SQL schema and configure db_config.php.
 3. Install dependencies: Ensure you have all the necessary PHP extensions installed.
 4. Configure OMDB API: Replace the placeholder API key with your actual key.
